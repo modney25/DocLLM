@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+/venv
+
+# Ignore Python's cache files
+/__pycache__/
+*.pyc
+
+# Ignore secret environment files
+.env
+
+# Ignore temporary documents
+*.pdf
